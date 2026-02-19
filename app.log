@@ -1,0 +1,217 @@
+2026-02-19 16:02:49,056 INFO Client initialized
+2026-02-19 16:02:49,058 INFO Starting Flask Binance Testnet App
+2026-02-19 16:02:49,151 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:02:49,151 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:02:49,152 INFO  * Restarting with stat
+2026-02-19 16:02:50,271 INFO Client initialized
+2026-02-19 16:02:50,273 INFO Starting Flask Binance Testnet App
+2026-02-19 16:02:50,298 WARNING  * Debugger is active!
+2026-02-19 16:02:50,310 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:07:54,459 INFO 127.0.0.1 - - [19/Feb/2026 16:07:54] "GET / HTTP/1.1" 200 -
+2026-02-19 16:07:54,605 INFO 127.0.0.1 - - [19/Feb/2026 16:07:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-19 16:07:59,281 INFO 127.0.0.1 - - [19/Feb/2026 16:07:59] "GET / HTTP/1.1" 200 -
+2026-02-19 16:09:33,711 INFO 127.0.0.1 - - [19/Feb/2026 16:09:33] "GET / HTTP/1.1" 200 -
+2026-02-19 16:09:33,789 INFO 127.0.0.1 - - [19/Feb/2026 16:09:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-02-19 16:09:50,534 INFO 127.0.0.1 - - [19/Feb/2026 16:09:50] "GET / HTTP/1.1" 200 -
+2026-02-19 16:11:16,842 INFO Client initialized
+2026-02-19 16:11:16,843 INFO Starting Flask Binance Testnet App
+2026-02-19 16:11:16,957 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:11:16,958 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:11:16,964 INFO  * Restarting with stat
+2026-02-19 16:11:18,936 INFO Client initialized
+2026-02-19 16:11:18,936 INFO Starting Flask Binance Testnet App
+2026-02-19 16:11:18,957 WARNING  * Debugger is active!
+2026-02-19 16:11:18,963 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:15:19,911 INFO Client initialized
+2026-02-19 16:15:19,913 INFO Starting Flask Binance Testnet App
+2026-02-19 16:15:19,991 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:15:19,991 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:15:19,992 INFO  * Restarting with stat
+2026-02-19 16:15:21,042 INFO Client initialized
+2026-02-19 16:15:21,042 INFO Starting Flask Binance Testnet App
+2026-02-19 16:15:21,053 WARNING  * Debugger is active!
+2026-02-19 16:15:21,099 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:17:22,919 INFO Client initialized
+2026-02-19 16:17:22,921 INFO Starting Flask Binance Testnet App
+2026-02-19 16:17:22,968 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:17:22,968 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:17:22,970 INFO  * Restarting with stat
+2026-02-19 16:17:23,957 INFO Client initialized
+2026-02-19 16:17:23,958 INFO Starting Flask Binance Testnet App
+2026-02-19 16:17:23,970 WARNING  * Debugger is active!
+2026-02-19 16:17:23,973 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:17:30,180 INFO 127.0.0.1 - - [19/Feb/2026 16:17:30] "GET / HTTP/1.1" 200 -
+2026-02-19 16:18:34,116 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:18:39,308 INFO {}
+2026-02-19 16:18:39,308 INFO Order placed successfully
+2026-02-19 16:18:39,309 INFO 127.0.0.1 - - [19/Feb/2026 16:18:39] "POST / HTTP/1.1" 200 -
+2026-02-19 16:20:40,045 INFO  * Detected change in 'C:\\Users\\chint\\OneDrive\\Desktop\\binancewebapp\\client.py', reloading
+2026-02-19 16:20:40,594 INFO  * Restarting with stat
+2026-02-19 16:20:43,533 INFO Binance Futures Testnet client initialized
+2026-02-19 16:20:43,534 INFO Starting Flask Binance Testnet App
+2026-02-19 16:20:43,572 WARNING  * Debugger is active!
+2026-02-19 16:20:43,579 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:20:49,558 INFO Binance Futures Testnet client initialized
+2026-02-19 16:20:49,559 INFO Starting Flask Binance Testnet App
+2026-02-19 16:20:49,595 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:20:49,595 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:20:49,597 INFO  * Restarting with stat
+2026-02-19 16:20:50,951 INFO Binance Futures Testnet client initialized
+2026-02-19 16:20:50,951 INFO Starting Flask Binance Testnet App
+2026-02-19 16:20:50,964 WARNING  * Debugger is active!
+2026-02-19 16:20:50,966 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:20:58,040 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:20:58,040 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:21:04,780 INFO Response: {}
+2026-02-19 16:21:04,780 INFO Order placed successfully
+2026-02-19 16:21:04,790 INFO 127.0.0.1 - - [19/Feb/2026 16:21:04] "POST / HTTP/1.1" 200 -
+2026-02-19 16:21:40,340 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:21:40,340 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:21:40,805 INFO Response: {}
+2026-02-19 16:21:40,806 INFO Order placed successfully
+2026-02-19 16:21:40,808 INFO 127.0.0.1 - - [19/Feb/2026 16:21:40] "POST / HTTP/1.1" 200 -
+2026-02-19 16:21:43,887 ERROR Input Error: Symbol is required
+2026-02-19 16:21:43,889 INFO 127.0.0.1 - - [19/Feb/2026 16:21:43] "POST / HTTP/1.1" 200 -
+2026-02-19 16:22:06,120 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:22:06,120 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:22:06,714 INFO Response: {}
+2026-02-19 16:22:06,714 INFO Order placed successfully
+2026-02-19 16:22:06,715 INFO 127.0.0.1 - - [19/Feb/2026 16:22:06] "POST / HTTP/1.1" 200 -
+2026-02-19 16:22:58,374 INFO Binance Futures Testnet client initialized
+2026-02-19 16:22:58,375 INFO Starting Flask Binance Testnet App
+2026-02-19 16:22:58,417 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:22:58,417 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:22:58,421 INFO  * Restarting with stat
+2026-02-19 16:22:59,434 INFO Binance Futures Testnet client initialized
+2026-02-19 16:22:59,434 INFO Starting Flask Binance Testnet App
+2026-02-19 16:22:59,447 WARNING  * Debugger is active!
+2026-02-19 16:22:59,450 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:23:08,196 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:23:08,196 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:23:09,705 INFO Response: {}
+2026-02-19 16:23:09,705 INFO Order placed successfully
+2026-02-19 16:23:09,710 INFO 127.0.0.1 - - [19/Feb/2026 16:23:09] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:28,365 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:23:28,365 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:23:28,964 INFO Response: {}
+2026-02-19 16:23:28,965 INFO Order placed successfully
+2026-02-19 16:23:28,966 INFO 127.0.0.1 - - [19/Feb/2026 16:23:28] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:30,693 ERROR Input Error: Symbol is required
+2026-02-19 16:23:30,694 INFO 127.0.0.1 - - [19/Feb/2026 16:23:30] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:38,648 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:23:38,648 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:23:39,147 INFO Response: {}
+2026-02-19 16:23:39,147 INFO Order placed successfully
+2026-02-19 16:23:39,148 INFO 127.0.0.1 - - [19/Feb/2026 16:23:39] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:39,543 ERROR Input Error: Symbol is required
+2026-02-19 16:23:39,544 INFO 127.0.0.1 - - [19/Feb/2026 16:23:39] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:40,320 ERROR Input Error: Symbol is required
+2026-02-19 16:23:40,321 INFO 127.0.0.1 - - [19/Feb/2026 16:23:40] "POST / HTTP/1.1" 200 -
+2026-02-19 16:23:46,944 INFO Order request: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-02-19 16:23:46,944 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:23:47,416 INFO Response: {}
+2026-02-19 16:23:47,416 INFO Order placed successfully
+2026-02-19 16:23:47,417 INFO 127.0.0.1 - - [19/Feb/2026 16:23:47] "POST / HTTP/1.1" 200 -
+2026-02-19 16:26:05,540 INFO  * Detected change in 'C:\\Users\\chint\\OneDrive\\Desktop\\binancewebapp\\app.py', reloading
+2026-02-19 16:26:05,623 INFO  * Restarting with stat
+2026-02-19 16:26:07,594 INFO Binance Futures Testnet client initialized
+2026-02-19 16:26:07,594 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:26:07,620 WARNING  * Debugger is active!
+2026-02-19 16:26:07,621 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:26:11,963 INFO Binance Futures Testnet client initialized
+2026-02-19 16:26:11,963 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:26:11,986 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:26:11,986 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:26:11,987 INFO  * Restarting with stat
+2026-02-19 16:26:12,939 INFO Binance Futures Testnet client initialized
+2026-02-19 16:26:12,940 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:26:12,955 WARNING  * Debugger is active!
+2026-02-19 16:26:12,957 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:26:20,124 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:26:20,125 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:26:23,145 INFO Response: {}
+2026-02-19 16:26:23,145 INFO Binance response: {}
+2026-02-19 16:26:23,149 INFO 127.0.0.1 - - [19/Feb/2026 16:26:23] "POST / HTTP/1.1" 200 -
+2026-02-19 16:26:35,007 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:26:35,007 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:26:35,532 INFO Response: {}
+2026-02-19 16:26:35,533 INFO Binance response: {}
+2026-02-19 16:26:35,533 INFO 127.0.0.1 - - [19/Feb/2026 16:26:35] "POST / HTTP/1.1" 200 -
+2026-02-19 16:26:37,571 ERROR Error placing order: Symbol is required
+2026-02-19 16:26:37,574 INFO 127.0.0.1 - - [19/Feb/2026 16:26:37] "POST / HTTP/1.1" 200 -
+2026-02-19 16:26:50,273 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:26:50,274 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:26:50,739 INFO Response: {}
+2026-02-19 16:26:50,739 INFO Binance response: {}
+2026-02-19 16:26:50,740 INFO 127.0.0.1 - - [19/Feb/2026 16:26:50] "POST / HTTP/1.1" 200 -
+2026-02-19 16:27:59,355 INFO  * Detected change in 'C:\\Users\\chint\\OneDrive\\Desktop\\binancewebapp\\config.py', reloading
+2026-02-19 16:27:59,441 INFO  * Restarting with stat
+2026-02-19 16:28:00,915 INFO Binance Futures Testnet client initialized
+2026-02-19 16:28:00,916 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:28:00,942 WARNING  * Debugger is active!
+2026-02-19 16:28:00,946 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:28:24,819 INFO  * Detected change in 'C:\\Users\\chint\\OneDrive\\Desktop\\binancewebapp\\client.py', reloading
+2026-02-19 16:28:24,885 INFO  * Restarting with stat
+2026-02-19 16:28:26,029 INFO Connected to Binance Futures Testnet
+2026-02-19 16:28:26,031 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:28:26,085 WARNING  * Debugger is active!
+2026-02-19 16:28:26,093 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:28:56,066 INFO Connected to Binance Futures Testnet
+2026-02-19 16:28:56,067 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:28:56,092 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:28:56,093 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:28:56,100 INFO  * Restarting with stat
+2026-02-19 16:28:57,067 INFO Connected to Binance Futures Testnet
+2026-02-19 16:28:57,068 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:28:57,078 WARNING  * Debugger is active!
+2026-02-19 16:28:57,080 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:29:04,690 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:29:04,690 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:29:05,585 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:29:05,585 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:29:05,593 INFO 127.0.0.1 - - [19/Feb/2026 16:29:05] "POST / HTTP/1.1" 200 -
+2026-02-19 16:29:25,265 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:29:25,266 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:29:25,747 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:29:25,747 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:29:25,748 INFO 127.0.0.1 - - [19/Feb/2026 16:29:25] "POST / HTTP/1.1" 200 -
+2026-02-19 16:31:33,893 INFO Connected to Binance Futures Testnet
+2026-02-19 16:31:33,893 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:31:33,952 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-02-19 16:31:33,952 INFO [33mPress CTRL+C to quit[0m
+2026-02-19 16:31:33,955 INFO  * Restarting with stat
+2026-02-19 16:31:34,938 INFO Connected to Binance Futures Testnet
+2026-02-19 16:31:34,939 INFO Starting Flask Binance Futures Testnet App
+2026-02-19 16:31:34,952 WARNING  * Debugger is active!
+2026-02-19 16:31:34,955 INFO  * Debugger PIN: 128-906-006
+2026-02-19 16:31:40,553 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:31:40,554 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:31:41,472 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:31:41,472 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:31:41,479 INFO 127.0.0.1 - - [19/Feb/2026 16:31:41] "POST / HTTP/1.1" 200 -
+2026-02-19 16:31:56,254 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:31:56,254 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:31:56,688 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:31:56,688 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:31:56,689 INFO 127.0.0.1 - - [19/Feb/2026 16:31:56] "POST / HTTP/1.1" 200 -
+2026-02-19 16:31:57,784 ERROR Error placing order: Symbol is required
+2026-02-19 16:31:57,785 INFO 127.0.0.1 - - [19/Feb/2026 16:31:57] "POST / HTTP/1.1" 200 -
+2026-02-19 16:32:20,316 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:32:20,317 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:32:20,799 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:32:20,800 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:32:20,801 INFO 127.0.0.1 - - [19/Feb/2026 16:32:20] "POST / HTTP/1.1" 200 -
+2026-02-19 16:52:34,138 INFO Order request: symbol=BTCUSDT, side=BUY, type=MARKET, quantity=0.001, price=None
+2026-02-19 16:52:34,144 INFO Sending order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-19 16:52:35,306 ERROR Order failed: APIError(code=-2014): API-key format invalid.
+2026-02-19 16:52:35,306 INFO Binance response: {'error': 'APIError(code=-2014): API-key format invalid.'}
+2026-02-19 16:52:35,311 INFO 127.0.0.1 - - [19/Feb/2026 16:52:35] "POST / HTTP/1.1" 200 -

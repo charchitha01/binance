@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Binance Futures Testnet App</title>
+</head>
+<body>
+
+<h2>Binance Futures Testnet Order Form</h2>
+
+<form method="POST">
+
+Symbol:<br>
+<input name="symbol"><br><br>
+
+Side:<br>
+<select name="side">
+<option>BUY</option>
+<option>SELL</option>
+</select><br><br>
+
+Type:<br>
+<select name="type">
+<option>MARKET</option>
+<option>LIMIT</option>
+</select><br><br>
+
+Quantity:<br>
+<input name="quantity"><br><br>
+
+Price:<br>
+<input name="price"><br><br>
+
+<button type="submit">Place Order</button>
+
+</form>
+
+{% if result %}
+<h3>Result:</h3>
+<pre>{{ result }}</pre>
+{% endif %}
+
+</body>
+</html>
